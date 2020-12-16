@@ -124,7 +124,7 @@ input[type=text],input[type=email],#comment{
 }
 
 .form-control::-webkit-input-placeholder {
-  color: white;
+  color: snow ;
 }
 #MERGE1{
   width: 30%;
