@@ -13,7 +13,7 @@ This is a  project on a web application for Delani Studio that shows details abo
 
 ## Live link/Page 
 
-
+ https://charles-ndugire.github.io/delani-studio/.
 
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
