@@ -46,7 +46,7 @@ This is a  project on a web application for Delani Studio that shows details abo
 ## Contact Information 
 
 * Email: [Email](email to : ndugirecharles@gmail.com)
-* Phone number: [Phone](tel:+254707261561)
+* Phone number: [Phone](tel: +254707261561 )
 ## License
 * *MIT License:* [MIT License](https://opensource.org/licenses/MIT)
 * Copyright (c) 2020 **Charles Ndugire**
