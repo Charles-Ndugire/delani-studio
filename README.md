@@ -23,7 +23,10 @@ This is a  project on a web application for Delani Studio that shows details abo
 
 * cd Delani-Studio
 
-* code . or atom . depending on the text editor that you use.
+*  Get user input
+    - User names
+    - User email address
+* Alert message "Name we have received your message. Thank you for reaching out to us."
 
 ## Technologies Used
 
