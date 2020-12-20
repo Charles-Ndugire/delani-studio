@@ -38,6 +38,7 @@ $(document).ready(function(){
     $("#overlay").hide();
   });
 });
+
 $(document).ready(function(){
   $("#work2").mouseover(function(){
     $("#overlay2").show();
@@ -45,6 +46,7 @@ $(document).ready(function(){
     $("#overlay2").hide();
   });
 });
+
 $(document).ready(function(){
   $("#work3").mouseover(function(){
     $("#overlay3").show();
@@ -52,6 +54,7 @@ $(document).ready(function(){
     $("#overlay3").hide();
   });
 });
+
 $(document).ready(function(){
   $("#work4").mouseover(function(){
     $("#overlay4").show();
@@ -66,6 +69,7 @@ $(document).ready(function(){
   }).mouseout(function(){
     $("#overlay5").hide();
   });
+  
   $("#work6").mouseover(function(){
     $("#overlay6").show();
   }).mouseout(function(){
