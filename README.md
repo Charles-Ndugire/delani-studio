@@ -11,7 +11,7 @@ This is a  project on a web application for Delani Studio that shows details abo
 ## Screenshot
 <img src="https://github.com/Charles-Ndugire/delani-studio/blob/master/images/delani.png" width="900px" height="440px">
 
-## Live link/Page 
+## Live link/page 
 
  [Delani Studio](https://charles-ndugire.github.io/delani-studio/.)
 
